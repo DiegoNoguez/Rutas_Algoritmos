@@ -1,0 +1,14 @@
+# Python
+backend/.dev/
+backend/__pycache__/
+backend/db.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
